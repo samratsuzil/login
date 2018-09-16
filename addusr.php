@@ -1,7 +1,7 @@
 <?php
 	$servername ="localhost";
 	$dbusername="root";
-	$dbpassword="";
+	$dbpassword="programmer";
 	$dbname="records";
 	
 	$username=$_POST['username'];
